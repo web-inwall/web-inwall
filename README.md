@@ -24,7 +24,6 @@
 ### Languages and tools:
 <img src="https://img.shields.io/badge/PHP-E23237?style=flat-square&logo=PHP&logoColor=white" title="PHP" width="100" height="30">&nbsp;
 <img src="https://img.shields.io/badge/Laravel-61DAFB?style=flat-square&logo=Laravel&logoColor=black" title="Laravel" width="100" height="30">&nbsp;
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" title="HTML" width="100" height="30">&nbsp;
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" title="CSS" width="100" height="30">&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" title="Git" width="100" height="30">&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" title="JavaScript" width="100" height="30">&nbsp;
