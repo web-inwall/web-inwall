@@ -7,7 +7,7 @@
     <a href="https://t.me/inwall_ch">
         <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
     </a>
-    <a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/web-inwall/">
         <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 </div>
